@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # azure_ML
-=======
+
 # Azure ML Project
 
 This project demonstrates the use of Azure Machine Learning to process and analyze data using machine learning models. It includes prompts for generating insights and explanations about machine learning concepts.
@@ -85,4 +85,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
->>>>>>> f356a3f3 (azure machine learn finalized)
