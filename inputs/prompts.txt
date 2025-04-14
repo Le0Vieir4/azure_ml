@@ -1,0 +1,6 @@
+Explique o conceito de aprendizado de máquina em termos simples.
+Quais são os principais benefícios do uso de inteligência artificial?
+Como você descreveria redes neurais para um iniciante?
+Quais são os desafios éticos associados ao uso de IA?
+Dê exemplos de aplicações práticas de aprendizado de máquina.
+
